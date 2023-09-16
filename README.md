@@ -1,2 +1,1 @@
-# CV
-Developer CV
+# This is a repository for my resumes
